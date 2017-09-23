@@ -1,0 +1,15 @@
+{
+    "name": "xtlsoft/cachedrecursion",
+    "description": "Easily make cached calls especially in slowly recursions in PHP.",
+    "type": "library",
+    "require": {
+        "php": ">=5.4"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "xtl",
+            "email": "xtlsoft@126.com"
+        }
+    ]
+}
