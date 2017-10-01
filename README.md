@@ -12,7 +12,7 @@ Easily make cached calls especially in slowly recursions in PHP.
 		
 		$func = Factory::cached(
 			[
-				"n"
+				"n" 
 			],
 			function($param, $next, $solve){
 				
